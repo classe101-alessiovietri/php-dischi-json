@@ -19,19 +19,5 @@
         "artist": "Salmo",
         "genre": "Rap",
         "year": 2016
-    },
-    {
-        "id": 28,
-        "name": "Meteora",
-        "artist": "Linkin Park",
-        "genre": "Nu Metal",
-        "year": "2007"
-    },
-    {
-        "id": 29,
-        "name": "Reanimation",
-        "artist": "Linkin Park",
-        "genre": "Nu Metal / Rap",
-        "year": "2008"
     }
 ]
